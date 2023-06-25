@@ -1,0 +1,23 @@
+{
+  "name": "mofron-effect-hrztext",
+  "version": "0.0.1",
+  "description": "'display flex' and 'align-item center' style effect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-effect-hrztext.git"
+  },
+  "dependencies": {
+    "mofron-event-click": "",
+    "mofron-effect-color": ""
+  },
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-effect-hrztext/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-effect-hrztext#readme"
+}
